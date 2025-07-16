@@ -3,7 +3,7 @@
 Plugin Name: 管理画面ページリンク追加
 Description: 固定ページ編集画面へのリンクを管理画面メニューに追加できるプラグイン
 Version: 1.0.0
-Author: あなたの名前
+Author: Y.U.
 */
 
 if (!defined('ABSPATH')) exit;
