@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: 管理画面ページリンク追加
+Plugin Name: UK Admin Page Link
 Description: 固定ページ編集画面へのリンクを管理画面メニューに追加できるプラグイン
 Version: 1.0.0
 Author: Y.U.
