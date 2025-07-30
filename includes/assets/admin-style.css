@@ -1,0 +1,38 @@
+/* 
+ * UK Admin Page Link - Admin Styles
+ * Version: 1.0.1
+ */
+
+.ukapl-row {
+    display: flex;
+    gap: 16px;
+    align-items: flex-end;
+    margin-bottom: 8px;
+}
+
+.ukapl-row label {
+    display: flex;
+    flex-direction: column;
+    min-width: 140px;
+}
+
+.ukapl-hr {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin: 8px 0;
+}
+
+.ukapl-icon-select option {
+    padding-left: 28px;
+    position: relative;
+}
+
+.ukapl-remove-row {
+    margin-left: 8px;
+    height: 32px;
+}
+
+.ukapl-icon-preview {
+    font-size: 24px;
+    vertical-align: middle;
+}
